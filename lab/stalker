@@ -132,7 +132,7 @@ pass="st@lk3r"
 source="http://linuxhelps.net/configs"
 
 #Install Necessary services & packets
-sudo apt-get install -y -u apache2 nginx wget nano curl nginx-extras unzip memcached php5.6  mysql-server php-pear nodejs upstart && sudo pear channel-discover pear.phing.info && sudo pear install -Z phing/phing 
+sudo apt-get install -y -u apache2 nginx wget nano curl nginx-extras unzip memcached php5 php5-mysql php-pear nodejs upstart && sudo pear channel-discover pear.phing.info && sudo pear install -Z phing/phing 
 sleep 1
 pear channel-discover pear.phing.info
 pear install phing/phing
