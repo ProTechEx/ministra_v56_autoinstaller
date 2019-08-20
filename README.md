@@ -29,7 +29,7 @@ chmod +x install
 
 6) Exit
 
-<br>
+<hr>
 
 <h3><b>ORIGINALLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker</b></h3>
 
