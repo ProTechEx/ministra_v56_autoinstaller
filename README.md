@@ -13,7 +13,7 @@ chmod +x install
 
 ./install
 ```
-<b>Info:</b>
+<h2><b>Info:</b></h2>
 1) Will work on Debian 7, 8 and Ubuntu 14.04
 2) Will work on Debian 7, 8 and Ubuntu 14.04
 3) Will work on Ubuntu 16.04
@@ -21,7 +21,7 @@ chmod +x install
 5) Will work on Debian 7, 8 and Ubuntu 16.04
 6) Exit
 
-<h2><b>IMPORTANT: During the install it will ask you to enter the MySQL Password which is "st@lk3r"</b></h2>
+<h3><b>IMPORTANT: During the install it will ask you to enter the MySQL Password which is "st@lk3r"</b></h3>
 
 <b>Modified by Snake24564 (ORIGINALLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker)</b>
 
