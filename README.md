@@ -19,8 +19,6 @@ chmod +x install
 ./install
 ```
 
-<b>Script work only on Clean Debian/Ubuntu install servers</b>
-
 This script will work on Debian, Ubuntu and probably other distros
 of the same families, although no support is offered for them. It isn't
 bulletproof but it will probably work if you simply want to setup a Stalker WM Portal on
