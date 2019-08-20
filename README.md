@@ -1,8 +1,6 @@
 <h1><b>Stalker / Ministra Middleware install script for Debian and Ubuntu Distros</b></h1>
 
-<b>This script ONLY works on fresh Debian/Ubuntu installs</b>
-
-##### Runs on
+##### ONLY Runs on fresh installs of:
 [![Debian](https://raw.githubusercontent.com/slaserx/icons/master/64x64/debian.png)](https://www.debian.org)
 [![Ubuntu](https://raw.githubusercontent.com/slaserx/icons/master/64x64/ubuntu.png)](https://www.ubuntu.com)
 
