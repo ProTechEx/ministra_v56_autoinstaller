@@ -29,7 +29,8 @@ chmod +x install
 
 6) Exit
 
-<h3><b>Modified by Snake24564 (ORIGINALLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker)</b></h3>
+<h3><b>Modified by Snake24564</b></h3> 
+<h3><b>(ORIGINALLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker)</b></h3>
 
 This script will work on Debian, Ubuntu and probably other distros
 of the same families, although no support is offered for them. It isn't
