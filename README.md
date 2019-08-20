@@ -42,9 +42,9 @@ Snake24564 modified this script to install Ministra 5.6 for Ubuntu and Debian an
 
 This is a free shell script under GNU GPL version 3.0 or above
 
-<b>Copyright <b>©</b> 2017 LinuxHelps project.</b>
-
 Author Ivan Bachvarov a.k.a SlaSerX
 
 Modified by Snake24564
+
+<b>Copyright <b>©</b> 2017 LinuxHelps project.</b>
 <hr>
