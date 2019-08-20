@@ -18,11 +18,14 @@ chmod +x install
 ./install
 ```
 Info:
-1) CAN ONLY BE INSTALLED ON UBUNTU 14.04
-2) CAN ONLY BE INSTALLED ON UBUNTU 14.04
-3) CAN ONLY BE INSTALLED ON UBUNTU 16.04 or higher
-4) CAN ONLY BE INSTALLED ON DEBIAN 8 or higher
-5) CAN BE INSTALLED ON UBUNTU AND DEBIAN DISTROS
+1) Will work on Debian 7, 8 and Ubuntu 14.04
+2) Will work on Debian 7, 8 and Ubuntu 14.04
+3) Will work on Ubuntu 16.04
+4) Will work on Debian 7, 8
+5) Will work on Debian 7, 8 and Ubuntu 16.04
+6) Exit
+
+<b>During the install it will ask you to enter the MySQL Password which is "st@lk3r"</b>
 
 This script will work on Debian, Ubuntu and probably other distros
 of the same families, although no support is offered for them. It isn't
