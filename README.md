@@ -5,6 +5,10 @@
 [![Ubuntu](https://raw.githubusercontent.com/slaserx/icons/master/64x64/ubuntu.png)](https://www.ubuntu.com)
 
 ```sh
+apt install git
+```
+
+```sh
 git clone https://github.com/snake24564/stalker
 
 cd stalker/
