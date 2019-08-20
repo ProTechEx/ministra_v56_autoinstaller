@@ -5,7 +5,7 @@
 [![Ubuntu](https://raw.githubusercontent.com/slaserx/icons/master/64x64/ubuntu.png)](https://www.ubuntu.com)
 
 ```sh
-Do this if GIT isn't installed already
+<b>Do this if GIT isn't installed already</b>
 
 apt install git
 ```
