@@ -4,11 +4,13 @@
 [![Debian](https://raw.githubusercontent.com/slaserx/icons/master/64x64/debian.png)](https://www.debian.org)
 [![Ubuntu](https://raw.githubusercontent.com/slaserx/icons/master/64x64/ubuntu.png)](https://www.ubuntu.com)
 
-```sh
 <b>Do this if GIT isn't installed already</b>
 
+```sh
 apt install git
 ```
+
+<b>Install:</b>
 
 ```sh
 git clone https://github.com/snake24564/stalker
