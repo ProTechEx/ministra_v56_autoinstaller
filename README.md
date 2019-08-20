@@ -1,4 +1,8 @@
-<b>Stalker WM Portal road warrior installer for Debian, Ubuntu</b>
+<b>Stalker / Ministra Middleware Script for Debian, Ubuntu</b>
+
+<b>Modified by snake24564</b>
+
+<b>(ORIGINLLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker)</b>
 
 This script will work on Debian, Ubuntu and probably other distros
 of the same families, although no support is offered for them. It isn't
@@ -8,11 +12,7 @@ universal as possible.
 
 This is a free shell script under GNU GPL version 3.0 or above
 Copyright (C) 2017 LinuxHelps project.
-Feedback/comment/suggestions : https://linuxhelps.net/
 Author Ivan Bachvarov a.k.a SlaSerX
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ivan@itbox.bg&item_name=LinuxHelps%20Support&currency_code=EUR) - You can make one-time donations via PayPal. I'll probably buy a coffe. :coffee:
-Thanks! :heart:
 
 ##### Runs on
 [![Debian](https://raw.githubusercontent.com/slaserx/icons/master/64x64/debian.png)](https://www.debian.org)
