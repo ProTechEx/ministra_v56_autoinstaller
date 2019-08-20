@@ -23,7 +23,7 @@ chmod +x install
 5) Will work on Debian 7, 8 and Ubuntu 16.04
 6) Exit
 
-<u><b>IMPORTANT: During the install it will ask you to enter the MySQL Password which is "st@lk3r"</b></u>
+<h2><b>IMPORTANT: During the install it will ask you to enter the MySQL Password which is "st@lk3r"</b></h2>
 
 <b>Modified by Snake24564 (ORIGINALLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker)</b>
 
