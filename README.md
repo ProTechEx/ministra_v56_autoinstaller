@@ -1,6 +1,6 @@
 <b>Stalker / Ministra Middleware Script for Debian, Ubuntu</b>
 
-<b>Modified by Snake24564 (ORIGINLLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker)</b>
+<b>Modified by Snake24564 (ORIGINALLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker)</b>
 
 <b>This script ONLY works on fresh Debian/Ubuntu installs</b>
 
