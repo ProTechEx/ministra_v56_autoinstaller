@@ -31,8 +31,6 @@ chmod +x install
 ./install
 ```
 
-#### [![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/SlaSerX/stalker)
-
 <b>Script work only on Clean Debian/Ubuntu install servers</b>
 
 Stalker auto install script v1.2.7 - RELEASE
