@@ -8,13 +8,6 @@
 [![Debian](https://raw.githubusercontent.com/slaserx/icons/master/64x64/debian.png)](https://www.debian.org)
 [![Ubuntu](https://raw.githubusercontent.com/slaserx/icons/master/64x64/ubuntu.png)](https://www.ubuntu.com)
 
-Info:
-1) CAN ONLY BE INSTALLED ON UBUNTU 14.04
-2) CAN ONLY BE INSTALLED ON UBUNTU 14.04
-3) CAN ONLY BE INSTALLED ON UBUNTU 16.04 or higher
-4) CAN ONLY BE INSTALLED ON DEBIAN 8 or higher
-5) CAN BE INSTALLED ON UBUNTU AND DEBIAN DISTROS
-
 ```sh
 git clone https://github.com/snake24564/stalker
 
@@ -24,6 +17,12 @@ chmod +x install
 
 ./install
 ```
+Info:
+1) CAN ONLY BE INSTALLED ON UBUNTU 14.04
+2) CAN ONLY BE INSTALLED ON UBUNTU 14.04
+3) CAN ONLY BE INSTALLED ON UBUNTU 16.04 or higher
+4) CAN ONLY BE INSTALLED ON DEBIAN 8 or higher
+5) CAN BE INSTALLED ON UBUNTU AND DEBIAN DISTROS
 
 This script will work on Debian, Ubuntu and probably other distros
 of the same families, although no support is offered for them. It isn't
