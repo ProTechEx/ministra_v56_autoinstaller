@@ -11,7 +11,9 @@ your Debian/Ubuntu box. It has been designed to be as unobtrusive and
 universal as possible.
 
 This is a free shell script under GNU GPL version 3.0 or above
+
 Copyright (C) 2017 LinuxHelps project.
+
 Author Ivan Bachvarov a.k.a SlaSerX
 
 ##### Runs on
