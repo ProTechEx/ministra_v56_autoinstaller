@@ -17,7 +17,7 @@ chmod +x install
 
 ./install
 ```
-Info:
+<b>Info:</b>
 1) Will work on Debian 7, 8 and Ubuntu 14.04
 2) Will work on Debian 7, 8 and Ubuntu 14.04
 3) Will work on Ubuntu 16.04
