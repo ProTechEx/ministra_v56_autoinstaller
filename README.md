@@ -30,7 +30,6 @@ chmod +x install
 6) Exit
 
 <hr>
-
 <h3><b>ORIGINALLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker</b></h3>
 
 This script will work on Debian, Ubuntu and probably other distros
@@ -48,3 +47,4 @@ Copyright (C) 2017 LinuxHelps project.
 Author Ivan Bachvarov a.k.a SlaSerX
 
 Modified by Snake24564
+<hr>
