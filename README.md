@@ -2,7 +2,7 @@
 
 <b>Modified by Snake24564 (ORIGINLLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker)</b>
 
-<b>Script work only on Clean Debian/Ubuntu install servers</b>
+<b>This script ONLY works on fresh Debian/Ubuntu installs</b>
 
 ##### Runs on
 [![Debian](https://raw.githubusercontent.com/slaserx/icons/master/64x64/debian.png)](https://www.debian.org)
