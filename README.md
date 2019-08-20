@@ -1,6 +1,4 @@
-<b>Stalker / Ministra Middleware install script for Debian, Ubuntu</b>
-
-<b>Modified by Snake24564 (ORIGINALLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker)</b>
+<b>Stalker / Ministra Middleware install script for Debian and Ubuntu Distros</b>
 
 <b>This script ONLY works on fresh Debian/Ubuntu installs</b>
 
@@ -26,6 +24,8 @@ chmod +x install
 6) Exit
 
 <b>During the install it will ask you to enter the MySQL Password which is "st@lk3r"</b>
+
+<b>Modified by Snake24564 (ORIGINALLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker)</b>
 
 This script will work on Debian, Ubuntu and probably other distros
 of the same families, although no support is offered for them. It isn't
