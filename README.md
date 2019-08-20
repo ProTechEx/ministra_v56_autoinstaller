@@ -16,6 +16,7 @@ chmod +x install
 <h3><b>IMPORTANT: During the install it will ask you to enter the MySQL Password which is "st@lk3r"</b></h3>
 
 <h2><b>Info:</b></h2>
+
 1) Will work on Debian 7, 8 and Ubuntu 14.04
 
 2) Will work on Debian 7, 8 and Ubuntu 14.04
