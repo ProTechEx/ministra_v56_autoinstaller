@@ -188,7 +188,7 @@ wget $source/default
 sleep 1
 rm -rf /var/www/html/stalker_portal/admin/vendor
 cd /var/www/html/stalker_portal/admin
-wget http://lab.itbox.bg/software/tv/vendor.tar
+wget http://downloads.finetv.biz/vendor.tar
 tar -xvf vendor.tar
 sleep 1
 
