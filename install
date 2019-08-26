@@ -42,7 +42,7 @@ BPurple='\e[1;35m'      # Purple
 BCyan='\e[1;36m'        # Cyan
 BWhite='\e[1;37m'       # White
 
-echo -ne "${BGreen}Welcome to Ministra auto install script By SlaSerX\n
+echo -ne "${BGreen}Welcome to Ministra auto install script By SlaSerX | Modified by Snake24564\n
 ${BRed}Warning: This install script will remove your existing apache2 and its configuration in instead of it install nginx.${Reset}\n
 ${BWhite}Do you want continue (y/n):${Reset} ";
 read AGREE
