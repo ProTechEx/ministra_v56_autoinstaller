@@ -157,6 +157,7 @@ mkdir /var/www/html/ministra/player
 cd /var/www/html/ministra/player 
 wget $source/index.php 
 cd
+cp /var/www/html/ministra/player/index.php /var/www/html/ministra
 
 apt-get update
 
