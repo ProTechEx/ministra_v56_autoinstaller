@@ -147,7 +147,7 @@ sudo ln -s /usr/bin/nodejs /usr/bin/node
 
 
 # Set the Server Timezone to CST
-echo "Europe/Sofia" > /etc/timezone
+#echo "Europe/Sofia" > /etc/timezone
 dpkg-reconfigure -f noninteractive tzdata
 
 # Install MySQL Server in a Non-Interactive mode. Default root password will be "st@lk3r"
