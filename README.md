@@ -8,7 +8,7 @@
   Ubuntu 14.04
   Ubuntu 16.04
   </b>
-
+<p>
 <b>Do this if "GIT" isn't installed already</b>
 
 ```sh
