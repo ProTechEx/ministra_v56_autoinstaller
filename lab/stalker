@@ -129,7 +129,7 @@ fi
 # 
 
 pass="st@lk3r"
-source="http://linuxhelps.net/configs"
+source="https://raw.githubusercontent.com/snake24564/stalker/master/docs/configs/"
 
 #Install Necessary services & packets
 sudo apt-get install -y -u apache2 nginx wget nano curl nginx-extras unzip memcached php5 php5-mysql php-pear nodejs upstart && sudo pear channel-discover pear.phing.info && sudo pear install -Z phing/phing 
