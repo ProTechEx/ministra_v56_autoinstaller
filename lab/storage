@@ -129,7 +129,7 @@ fi
 # 
 
 pass="st@lk3r"
-source="http://linuxhelps.net/configs"
+source="https://raw.githubusercontent.com/snake24564/stalker/master/docs/configs/"
 
 # Install Necessary services & packets
 sudo apt-get install -y -u apache2 php php-soap python2.7 nginx nginx-extras
