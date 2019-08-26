@@ -1,12 +1,14 @@
 <h1><b>Stalker / Ministra Middleware install script for Debian and Ubuntu Distros</b></h1>
 
 ##### <h3> ONLY runs on fresh installs of: </h3>
+
 <b>
   Debian 8
   Debian 9
   Ubuntu 14.04
   Ubuntu 16.04
   </b>
+
 <b>Do this if "GIT" isn't installed already</b>
 
 ```sh
