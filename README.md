@@ -8,7 +8,7 @@
   Ubuntu 14.04
   Ubuntu 16.04
   </b>
-<br>
+<hr>
 <b>Install:</b>
 
 ```sh
