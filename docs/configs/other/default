@@ -1,0 +1,27 @@
+server {
+    listen       80;
+    server_name  localhost;
+ 
+    location / {
+        proxy_pass http://127.0.0.1:88/;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+    }
+ 
+    location ~* \.(mpg|mpeg|avi|ts|mkv|mp4|mov|m2ts|flv|m4v|srt|sub|ass)$ {
+ 
+        secure_link $arg_st,$arg_e;
+        secure_link_md5 "supersecret$uri$remote_addr$arg_e"; # you can change secret "supersecret" in the portal config - nginx_secure_link_secret
+ 
+        if ($secure_link = "") {
+            return 403;
+        }
+ 
+        if ($secure_link = "0") {
+            return 410;
+        }
+ 
+        send_timeout 6h;
+        root /var/www/html;
+    }
+}
