@@ -152,6 +152,12 @@ wget $source/default
 /etc/init.d/nginx restart
 sleep 1
 
+mkdir /var/www/html/ministra 
+mkdir /var/www/html/ministra/player 
+cd /var/www/html/ministra/player 
+wget $source/index.php 
+cd
+
 apt-get update
 
 sleep 1
