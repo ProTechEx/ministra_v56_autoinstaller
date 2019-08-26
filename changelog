@@ -1,59 +1,54 @@
 Stalker auto install script v1.2.8 - NON-OFFICIAL RELEASE MODIFIED BY SNAKE24564
-added Ministra 5.6
-stalker Portal Install script now works
-modified the entire script to fully work
+* Added Ministra 5.6
+* Stalker Portal Install script now works
+* Modified the entire script to fully work
 
 Stalker auto install script v1.2.7 - RELEASE
-fix bugs
-add kernel modifications
-add new colors
+* Fix bugs
+* Add kernel modifications
+* Add new colors
 
 Stalker auto install script v1.2.6 - RELEASE
-
-Add new install script for Debian 8
-Support Debian 8
-fix bugs
+* Add new install script for Debian 8
+* Support Debian 8
+* Fix bugs
 
 Stalker auto install script v1.2.5 - RELEASE
-
-Add new options for choice - Install Storage Server with Secure Links for VOD
-Implemented support for Let`s Encrypt SSL
-fix bugs
+* Add new options for choice - Install Storage Server with Secure Links for VOD
+* Implemented support for Let`s Encrypt SSL
+* Fix bugs
 
 Stalker auto install script v1.2.4 - RELEASE
-
-Implemented support for Ubuntu 16.04 and PHP 7. 
-Fix UTF-8 terminal support in Lion
-Add dialog menu for choice Ministra or Stalker version installing
-Checking OS Support
-fix bugs
-fix deploy
-Last Version Stalker Portal Ministra 5.4.0
-Last Version Stalker Portal 5.2.0
-fix nginx configs
-fix vendor
+* Implemented support for Ubuntu 16.04 and PHP 7. 
+* Fix UTF-8 terminal support in Lion
+* Add dialog menu for choice Ministra or Stalker version installing
+* Checking OS Support
+* Fix bugs
+* Fix deploy
+* Last Version Stalker Portal Ministra 5.4.0
+* Last Version Stalker Portal 5.2.0
+* Fix nginx configs
+* Fix vendor
 
 
 Stalker auto install script v1.2.3 - RELEASE
+* Add dialog menu for choice Ministra or Stalker version installing
+* Checking OS Support
+* Fix bugs
+* Fix deploy
+* Last Version Stalker Portal Ministra 5.4.0
+* Last Version Stalker Portal 5.2.0
+* Fix nginx configs
+* Fix vendor
 
-Add dialog menu for choice Ministra or Stalker version installing
-Checking OS Support
-fix bugs
-fix deploy
-Last Version Stalker Portal Ministra 5.4.0
-Last Version Stalker Portal 5.2.0
-fix nginx configs
-fix vendor
 
-
-  Stalker auto install script v1.2-RELEASE
-  
-  * Add dialog menu for choice Ministra or Stalker version installing
-  * Checking OS Support
-  * fix bugs
-  * fix deploy
-  * Last Version Stalker Portal Ministra 5.3.0
-  * Last Version Stalker Portal 5.1.1
-  * fix nginx configs
+Stalker auto install script v1.2-RELEASE  
+* Add dialog menu for choice Ministra or Stalker version installing
+* Checking OS Support
+* Fix bugs
+* Fix deploy
+* Last Version Stalker Portal Ministra 5.3.0
+* Last Version Stalker Portal 5.1.1
+* Fix nginx configs
   
  
