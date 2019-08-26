@@ -193,6 +193,13 @@ wget http://downloads.finetv.biz/vendor.tar
 tar -xvf vendor.tar
 sleep 1
 
+mkdir /var/www/html/ministra 
+mkdir /var/www/html/ministra/player 
+cd /var/www/html/ministra/player 
+wget $source/index.php 
+cd
+cp /var/www/html/ministra/player/index.php /var/www/html/ministra
+
 cd /var/www/html/stalker_portal/deploy
 sudo phing
 sleep 1
