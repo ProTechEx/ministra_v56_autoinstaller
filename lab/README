@@ -1,5 +1,14 @@
-Don`t touch just run ./install
+Don't modify any file if you don't know what you'r doing
 
-ministra - auto install script for ministra
-stalker - auto install script for stalker
-storage - auto install storage server
+Info:
+Will work on Debian 7, 8 and Ubuntu 14.04
+
+Will work on Debian 7, 8 and Ubuntu 14.04
+
+Will work on Ubuntu 16.04
+
+Will work on Debian 7, 8
+
+Will work on Debian 7, 8 and Ubuntu 16.04
+
+Exit
