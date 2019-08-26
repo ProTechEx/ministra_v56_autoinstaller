@@ -186,6 +186,7 @@ cd /var/www/html/
 wget http://downloads.finetv.biz/v5.6.0.zip
 unzip v5.6.0.zip
 rm -rf *.zip
+rm -rf /var/www/html/__MACOSX
 
 # Create Database
 mysql -uroot -p$pass -e "create database stalker_db"
