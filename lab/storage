@@ -158,7 +158,7 @@ apt-get update
 sleep 1
 
 # Set the Server Timezone to CST
-echo "Europe/Sofia" > /etc/timezone
+#echo "Europe/Sofia" > /etc/timezone
 dpkg-reconfigure -f noninteractive tzdata
 
 # Download Ministra
