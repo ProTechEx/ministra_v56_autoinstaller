@@ -166,6 +166,7 @@ cd /var/www/html/
 wget http://downloads.finetv.biz/v5.6.0.zip
 unzip v5.6.0.zip
 rm -rf *.zip
+rm -rf /var/www/html/__MACOSX
 
 # Images for Fun
 
