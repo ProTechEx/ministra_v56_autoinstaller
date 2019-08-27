@@ -9,6 +9,8 @@
   Ubuntu 16.04
   </b>
 <hr>
+<h1><b>DON'T INSTALL STALKER AS IT DOESNT WORK YET<b></ht>
+<hr>
 <b>Install:</b>
 
 ```sh
