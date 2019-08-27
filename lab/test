@@ -134,6 +134,9 @@ sleep 1
 echo "Europe/Sofia" > /etc/timezone
 dpkg-reconfigure -f noninteractive tzdata
 
+mkdir /var/www
+mkdir /var/www/html
+
 # Install MySQL Server in a Non-Interactive mode. Default root password will be "st@lk3r"
 echo "mysql-server mysql-server/root_password password $pass" | sudo debconf-set-selections
 echo "mysql-server mysql-server/root_password_again password $pass" | sudo debconf-set-selections
