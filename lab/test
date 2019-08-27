@@ -146,7 +146,7 @@ service mysql restart
 
 cd /var/www/html/
 wget http://downloads.finetv.biz/v5.2.0.zip
-unzip stalker_portal-5.2.0.zip
+unzip v5.2.0.zip
 mv infomirgroup-stalker_portal-9e60f9025ab6 stalker_portal
 rm -rf *.zip
 rm -rf /var/www/html/__MACOSX
