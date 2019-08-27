@@ -128,6 +128,7 @@ else
  echo "Installing Ministra"
  ./lab/ministra
 ;;
+
 2)
  #Install Stalker
  echo "Installing Stalker"
@@ -152,8 +153,14 @@ else
 ./lab/storage
  ;;
 
- #Exit
 6)
+ # Test
+ echo "test"
+./lab/test
+ ;;
+
+ #Exit
+7)
 exit
  ;;
 
