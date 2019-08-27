@@ -200,6 +200,10 @@ wget $source/index.php
 cd
 cp /var/www/html/ministra/player/index.php /var/www/html/ministra
 
+cd /var/www/html/stalker_portal/server
+wget -O custom.ini https://raw.githubusercontent.com/snake24564/stalker/master/docs/configs/custom.ini
+cd
+
 cd /var/www/html/stalker_portal/deploy
 sudo phing
 sleep 1
