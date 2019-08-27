@@ -1,5 +1,7 @@
 <h1><b>Stalker / Ministra Middleware install script for Debian and Ubuntu Distros</b></h1>
 
+<h1><b>DON'T INSTALL STALKER AS IT DOESNT WORK YET</b></h1>
+
 ##### <h3> ONLY runs on fresh installs of: </h3>
 
 <b>
@@ -8,8 +10,6 @@
   Ubuntu 14.04
   Ubuntu 16.04
   </b>
-<hr>
-<h1><b>DON'T INSTALL STALKER AS IT DOESNT WORK YET<b></ht>
 <hr>
 <b>Install:</b>
 
