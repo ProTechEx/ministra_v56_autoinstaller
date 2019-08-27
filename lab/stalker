@@ -180,6 +180,10 @@ wget $source/default
 /etc/init.d/apache2 restart
 /etc/init.d/nginx restart
 
+cd /var/www/html/stalker_portal/server
+wget -O custom.ini https://raw.githubusercontent.com/snake24564/stalker/master/docs/configs/custom.ini
+cd
+
 cd /var/www/html/stalker_portal/deploy
 sudo phing
 sleep 1
