@@ -215,6 +215,10 @@ wget http://downloads.finetv.biz/vendor.tar
 tar -xvf vendor.tar
 sleep 1
 
+cd /var/www/html/stalker_portal/server
+wget -O custom.ini https://raw.githubusercontent.com/snake24564/stalker/master/docs/configs/custom.ini
+cd
+
 # Phing :)
 cd /var/www/html/stalker_portal/deploy
 sudo phing
