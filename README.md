@@ -18,6 +18,7 @@
 <p>
 
 ```sh
+
 git clone https://github.com/snake24564/stalker
 
 cd stalker/
@@ -25,6 +26,7 @@ cd stalker/
 chmod +x install
 
 ./install
+
 ```
 
 <p>
