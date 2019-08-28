@@ -132,7 +132,7 @@ else
 2)
  #Install Stalker
  echo "Installing Stalker"
-./lab/stalker
+./lab/disabled
  ;;
 
 3)
