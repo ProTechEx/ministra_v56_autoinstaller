@@ -2,7 +2,9 @@
 
 <h1><b>*Stalker is Disabled*</b></h1>
 
-##### <h2> ONLY runs on fresh installs of: </h2>
+<p>
+
+##### <h3> ONLY runs on fresh installs of: </h3>
 
 <b>
   Debian 8
@@ -23,7 +25,7 @@ chmod +x install
 ./install
 ```
 <hr>
-<h2><b>IMPORTANT: During the install it will ask you to enter the MySQL Password which is "st@lk3r"</b></h2>
+<h3><b>IMPORTANT: During the install it will ask you to enter the MySQL Password which is "st@lk3r"</b></h3>
 <hr>
 <h2><b>Info:</b></h2>
 
@@ -40,7 +42,7 @@ chmod +x install
 6) Exit
 
 <hr>
-<h2><b>ORIGINALLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker</b></h2>
+<h3><b>ORIGINALLY CREATED BY SlaSerX https://github.com/SlaSerX/stalker</b></h3>
 
 This script will work on Debian, Ubuntu and probably other distros
 of the same families, although no support is offered for them. It isn't
