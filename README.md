@@ -16,7 +16,8 @@
 <p>  
   Ubuntu 16.04
 <p>
-  </b>
+</b>
+<p>
 <hr>
 <b>Install:</b>
 
