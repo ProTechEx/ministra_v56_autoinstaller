@@ -26,12 +26,21 @@
 ```sh
 git clone https://github.com/snake24564/stalker
 ```
+
+<p>
+
 ```sh
 cd stalker/
 ```
+
+<p>
+
 ```sh
 chmod +x install
 ```
+
+<p>
+
 ```sh
 ./install
 ```
