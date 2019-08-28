@@ -205,7 +205,8 @@ wget -O custom.ini https://raw.githubusercontent.com/snake24564/stalker/master/d
 cd
 
 cd /var/www/html/stalker_portal/deploy
-sudo phing -p$pass
+sudo phing 
+-p$pass
 sleep 1
 smallLoader
 
