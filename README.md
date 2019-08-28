@@ -4,9 +4,8 @@
 
 <p>
 
-<h3> ONLY runs on fresh installs of: </h3>
+<b><h3> ONLY runs on fresh installs of: </h3></b>
 
-<b>
 <p>  
   Debian 8
 <p>  
@@ -15,8 +14,6 @@
   Ubuntu 14.04
 <p>  
   Ubuntu 16.04
-<p>
-</b>
 <p>
 <hr>
 <b>Install:</b>
