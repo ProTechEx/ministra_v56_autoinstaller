@@ -206,7 +206,6 @@ cd
 
 cd /var/www/html/stalker_portal/deploy
 sudo phing 
--p$pass
 sleep 1
 smallLoader
 
