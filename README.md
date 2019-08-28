@@ -8,8 +8,11 @@
 
 <b>
   Debian 8
+<p>  
   Debian 9
+<p>  
   Ubuntu 14.04
+<p>  
   Ubuntu 16.04
   </b>
 <hr>
