@@ -117,8 +117,7 @@ else
  3 "Install Ministra on Ubuntu 16.04" off
  4 "Install Ministra on Debian 8" off
  5 "Install of the Storage Server" off
- 6 "test" off
- 7 "Exit" off)
+ 6 "Exit" off)
  choices=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
  clear
  for choice in $choices
@@ -154,14 +153,8 @@ else
 ./lab/storage
  ;;
 
-6)
- # Test
- echo "test"
-./lab/test
- ;;
-
  #Exit
-7)
+6)
 exit
  ;;
 
