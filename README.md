@@ -7,6 +7,7 @@
 <h3> ONLY runs on fresh installs of: </h3>
 
 <b>
+<p>  
   Debian 8
 <p>  
   Debian 9
@@ -14,6 +15,7 @@
   Ubuntu 14.04
 <p>  
   Ubuntu 16.04
+<p>
   </b>
 <hr>
 <b>Install:</b>
