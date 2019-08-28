@@ -2,7 +2,7 @@
 
 <h1><b>*Stalker is Disabled*</b></h1>
 
-##### <h3> ONLY runs on fresh installs of: </h3>
+##### <h2> ONLY runs on fresh installs of: </h2>
 
 <b>
   Debian 8
