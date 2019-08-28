@@ -23,8 +23,8 @@ cd stalker/
 chmod +x install
 
 ./install
-```
 <p>
+```
 <hr>
 <h3><b>IMPORTANT: During the install it will ask you to enter the MySQL Password which is "st@lk3r"</b></h3>
 <hr>
