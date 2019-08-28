@@ -18,19 +18,16 @@
 <p>
 
 ```sh
-
-<p>
-
 git clone https://github.com/snake24564/stalker
-
+```
+```sh
 cd stalker/
-
+```
+```sh
 chmod +x install
-
+```
+```sh
 ./install
-
-<p>
-
 ```
 
 <p>
