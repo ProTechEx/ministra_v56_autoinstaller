@@ -4,7 +4,7 @@
 
 <p>
 
-##### <h3> ONLY runs on fresh installs of: </h3>
+<h3> ONLY runs on fresh installs of: </h3>
 
 <b>
   Debian 8
