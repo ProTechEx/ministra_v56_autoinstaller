@@ -21,7 +21,7 @@
 <p>
 
 ```sh
-git clone https://github.com/snake24564/stalker
+git clone https://github.com/ProTechEx/ministra_v56_autoinstaller
 ```
 
 <p>
