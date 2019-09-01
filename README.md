@@ -27,7 +27,7 @@ git clone https://github.com/ProTechEx/ministra_v56_autoinstaller
 <p>
 
 ```sh
-cd stalker/
+cd ministra_v56_autoinstaller/
 ```
 
 <p>
